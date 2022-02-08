@@ -2,17 +2,22 @@ package com.thesamoanppprogrammer.practicegroovy.completeapachegroovycourse
 
 import groovy.xml.MarkupBuilder
 
-MarkupBuilder markupBuilder = new MarkupBuilder()
+//Write to file
+FileWriter fileWriter = new FileWriter('data/todos.xml')
+MarkupBuilder markupBuilder = new MarkupBuilder(fileWriter)
 
-markupBuilder.sports {
-    sport(id:1) {
-        name: 'Rugby'
+markupBuilder.todos {
+    todo(id:1) {
+        todo 'First Todo'
+        completed false
     }
-    sport(id:2) {
-        name: 'Soccer'
+    todo(id:2) {
+        todo 'Second Todo'
+        completed false
     }
-    sport(id:3) {
-        name: 'Golf'
+    todo(id:3) {
+        todo 'Third Todo'
+        completed false
     }
 }
 

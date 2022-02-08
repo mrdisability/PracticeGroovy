@@ -1,0 +1,14 @@
+<todos>
+  <todo id='1'>
+    <todo>First Todo</todo>
+    <completed>false</completed>
+  </todo>
+  <todo id='2'>
+    <todo>Second Todo</todo>
+    <completed>false</completed>
+  </todo>
+  <todo id='3'>
+    <todo>Third Todo</todo>
+    <completed>false</completed>
+  </todo>
+</todos>
