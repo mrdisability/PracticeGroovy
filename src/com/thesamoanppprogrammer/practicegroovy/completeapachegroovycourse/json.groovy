@@ -18,5 +18,5 @@ jsonBuilder.todos {
 println jsonBuilder.toString()
 println jsonBuilder.toPrettyString()
 
-new File('json/todo.json').write(jsonBuilder.toPrettyString())
+new File('data/todos.json').write(jsonBuilder.toPrettyString())
 
