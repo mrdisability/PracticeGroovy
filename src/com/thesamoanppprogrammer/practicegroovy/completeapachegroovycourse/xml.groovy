@@ -1,4 +1,4 @@
-package com.thesamoanppprogrammer.practicegroovy
+package com.thesamoanppprogrammer.practicegroovy.completeapachegroovycourse
 
 import groovy.xml.MarkupBuilder
 
