@@ -1,0 +1,12 @@
+{
+    "todos": {
+        "currentTodo": {
+            "todo": "First Todo",
+            "completed": false
+        },
+        "nextTodo": {
+            "todo": "Second Todo",
+            "completed": false
+        }
+    }
+}
