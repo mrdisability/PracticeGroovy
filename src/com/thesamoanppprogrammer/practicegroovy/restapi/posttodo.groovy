@@ -5,12 +5,15 @@ def postConnection = postRequest.openConnection()
 postConnection.requestMethod = 'POST'
 assert postConnection.responseCode == 200
 
-def form = "todo=Groovy Todo; completed=false;"
+//def todo = "todo=Groovy Todo"
+//def completed = false
+
+def params = ["todo": "Groovy Todo", "completed": false]
 postConnection.doOutput = true
 def text
 postConnection.with {
     outputStream.withWriter { outputStreamWriter ->
-        outputStreamWriter << form
+        outputStreamWriter << params
     }
     text = content.text
 }
