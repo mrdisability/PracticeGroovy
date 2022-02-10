@@ -1,6 +1,7 @@
 package com.thesamoanppprogrammer.practicegroovy.restapi.httpbuilder
 
 import groovyx.net.http.RESTClient
+import groovyx.net.http.ContentType
 
 String base = 'http://api.icndb.com'
 
