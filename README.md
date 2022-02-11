@@ -5,3 +5,5 @@
 ## GroovyDatabase: https://github.com/thesamoanppprogrammer/GroovyDatabase
 
 ## GroovyXml: https://github.com/thesamoanppprogrammer/GroovyXml
+
+## GroovySpringBoot: https://github.com/thesamoanppprogrammer/GroovySpringBoot
