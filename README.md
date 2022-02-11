@@ -7,3 +7,5 @@
 ## GroovyXml: https://github.com/thesamoanppprogrammer/GroovyXml
 
 ## GroovySpringBoot: https://github.com/thesamoanppprogrammer/GroovySpringBoot
+
+## GroovySpringBootTemplates: https://github.com/thesamoanppprogrammer/GroovySpringBootTemplates
