@@ -9,3 +9,5 @@
 ## GroovySpringBoot: https://github.com/thesamoanppprogrammer/GroovySpringBoot
 
 ## GroovySpringBootTemplates: https://github.com/thesamoanppprogrammer/GroovySpringBootTemplates
+
+## GroovyGrails: https://github.com/thesamoanppprogrammer/GroovyGrails
