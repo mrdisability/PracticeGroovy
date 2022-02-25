@@ -11,3 +11,5 @@
 ## GroovySpringBootTemplates: https://github.com/thesamoanppprogrammer/GroovySpringBootTemplates
 
 ## GroovyGrails: https://github.com/thesamoanppprogrammer/GroovyGrails
+
+## GroovyLinkedinLearning: https://github.com/thesamoanppprogrammer/GroovyLinkedinLearning
