@@ -13,3 +13,5 @@
 ## GroovyGrails: https://github.com/thesamoanppprogrammer/GroovyGrails
 
 ## GroovyLinkedinLearning: https://github.com/thesamoanppprogrammer/GroovyLinkedinLearning
+
+## GroovyExercises: https://github.com/thesamoanppprogrammer/GroovyExercises
